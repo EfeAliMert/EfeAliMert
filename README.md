@@ -52,15 +52,7 @@ interests = {
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfeAliMert&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfeAliMert&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 
 ## 📫 Let's Connect!
