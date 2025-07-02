@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Efe Ali Mert**, a passionate high school sophomore with an insatiable curiosity for the intersection of mathematics, science, and technology. My journey revolves around exploring the fascinating worlds of:
+Hello! I'm **Efe Ali Mert**, a passionate high school junior with an insatiable curiosity for the intersection of mathematics, science, and technology. My journey revolves around exploring the fascinating worlds of:
 
 - 🔢 **Mathematics** - Applied mathematical analysis with focus on fractal geometry and complexity theory
 - 🔐 **Cryptography** - Diving deep into the science of secure communication
