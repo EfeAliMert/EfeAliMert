@@ -35,7 +35,7 @@ interests = {
 
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills
 
 <div align="center">
 
