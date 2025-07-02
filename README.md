@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Efe Ali Mert
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F7FBF&center=true&vCenter=true&width=600&lines=High+School+Juniour;Applied+Mathematics+Enthusiast;Chaos+Theory+Explorer;Neurology+%26+ML+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F7FBF&center=true&vCenter=true&width=600&lines=High+School+Junior;Applied+Mathematics+Enthusiast;Chaos+Theory+Explorer;Neurology+%26+ML+Researcher" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
